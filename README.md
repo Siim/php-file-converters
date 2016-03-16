@@ -34,3 +34,9 @@ tex | 1 | 1 | 1 | 1 | 1 | 1 |  | 1 | 1 | 1 | 1 | 1 |  | 1 | 1
 textile | 1 | 1 | 1 | 1 | 1 | 1 |  | 1 | 1 | 1 | 1 | 1 |  | 1 | 1
 txt | 1 | 1 | 1 | 1 | 1 | 1 |  | 1 | 1 | 1 | 1 | 2 |  | 1 | 1
 vor |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |
+
+
+## Live Demo
+[See It In Action][demo]
+
+[demo]: http://redux-auth.herokuapp.com
